@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif)
+
 
 <h1 align="center">Hi 👋, I'm Faria Jahan Janie</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
