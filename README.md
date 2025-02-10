@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Faria Jahan Janie</h1>
 
-
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 <p align="left"> 
-  
-
----
+  <img src="https://komarev.com/ghpvc/?username=jahanostg&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ### 🎓 Education:
 📖 Currently pursuing **B.Sc. in Computer Science & Engineering (CSE)**  
@@ -23,7 +21,6 @@
 - 📧 Reach me at **janiefaria315@gmail.com**.  
 
 ---
-
 ### 🔗 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/faria-jahan" target="blank">
@@ -50,6 +47,9 @@
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
   </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
   </a> 
@@ -65,16 +65,15 @@
 
 ### 📊 GitHub Stats:
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahanostg&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahanostg&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jahanostg&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
-
-
 ---
+
 
 ### 🌟 Fun Fact:
 💙 I love **learning about new programming trends** and exploring **creative web development ideas**.
