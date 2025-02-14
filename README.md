@@ -23,3 +23,5 @@ Currently pursuing a B.Sc. in Computer Science & Engineering (CSE) at Port City 
 [![](https://visitcount.itsvg.in/api?id=jahanOSTG&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌟 Fun Fact:
+💙 I love *learning about new programming trends* and exploring *creative web development ideas*.
