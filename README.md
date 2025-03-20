@@ -18,7 +18,9 @@ Currently pursuing a B.Sc. in Computer Science & Engineering (CSE) at Port City 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white) 
+![Python Turtle](https://img.shields.io/badge/Python_Turtle-%2336A85D.svg?style=for-the-badge&logo=python&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jahanOSTG&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
