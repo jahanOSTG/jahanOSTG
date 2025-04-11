@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently pursuing a B.Sc. in Computer Science & Engineering (CSE) at Port City International University, Bangladesh.<br><br>💡 Passionate about Software Development, Web Technologies.<br>🚀 Always eager to learn new technologies and enhance my skills.<br>🔍 Exploring Backend Development with PHP and MySQL.<br>🎨 Working with Frontend Technologies like HTML, CSS, JavaScript.<br>📖 Currently learning react.
+Currently pursuing a B.Sc. in Computer Science & Engineering (CSE) at Port City International University, Bangladesh.<br><br>💡 Passionate about Software Development, Web Technologies.<br>🚀 Always eager to learn new technologies and enhance my skills.<br>🔍 Exploring Backend Development with PHP and MySQL.<br>🎨 Working with Frontend Technologies like HTML, CSS, JavaScript.<br>🧠 Actively improving my problem-solving skills through Codeforces.<br>
+📖 Currently learning react.
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 
