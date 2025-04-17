@@ -20,14 +20,14 @@ I believe in consistent practice to grow as a developer and build strong logical
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   
-  <a href="https://www.codechef.com/users/your_username_here" target="_blank">
+  <a href="https://www.codechef.com/users/fariajanie" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </p>
 
-- ✨ Focusing on **problem-solving** and **algorithmic thinking**
+- ✨ Focusing on **problem-solving** .
 - 🧩 Actively practicing on **Codeforces** to improve logic building
-- 📈 Passionate about clean code, patterns & efficient solutions
+
 
 ---
 
