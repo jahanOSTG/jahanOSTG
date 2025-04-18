@@ -17,7 +17,7 @@ I believe in consistent practice to grow as a developer and build strong logical
 
 
 
-🏅 **Solved 50+ problems on CodeChef**  
+🏅 **Solved 130+ problems on CodeChef**  
 🥉 **Earned the Problem Solver Bronze Badge**  
 ✨ Staying consistent and sharpening problem-solving skills every day!
 
