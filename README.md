@@ -15,6 +15,12 @@
 ## 🧠 Problem Solving Focus
 I believe in consistent practice to grow as a developer and build strong logical thinking.
 
+
+
+🏅 **Solved 50+ problems on CodeChef**  
+🥉 **Earned the Problem Solver Bronze Badge**  
+✨ Staying consistent and sharpening problem-solving skills every day!
+
 <p align="left">
   <a href="https://codeforces.com/profile/Faria_jahan_janie" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
@@ -25,8 +31,8 @@ I believe in consistent practice to grow as a developer and build strong logical
   </a>
 </p>
 
-- ✨ Focusing on **problem-solving** .
-- 🧩 Actively practicing on **Codeforces** to improve logic building
+- ✨ Focusing on **problem-solving**.  
+- 🧩 Actively practicing on **Codeforces** to improve logic building.
 
 
 ---
