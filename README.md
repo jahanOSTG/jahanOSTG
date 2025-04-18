@@ -32,7 +32,7 @@ I believe in consistent practice to grow as a developer and build strong logical
 </p>
 
 - ✨ Focusing on **problem-solving**.  
-- 🧩 Actively practicing on **Codeforces** to improve logic building.
+- 🧩 Actively practicing on **Codeforces** & **CodeChef** to improve logic building.
 
 
 ---
