@@ -12,13 +12,12 @@
 
 ---
 
-## 🧠 Problem Solving Focus
+## 🧠 Problem Solving Focus  
 I believe in consistent practice to grow as a developer and build strong logical thinking.
 
-
-
-🏅 **Solved 250+ problems on CodeChef**  
-🥉 **Earned the Problem Solver Silver Badge**  
+🏅 **Solved 350+ problems on CodeChef**  
+🥉 **Earned the Problem Solver Silver Badge on CodeChef**  
+🆕 **Newbie on Codeforces — growing step by step!**  
 ✨ Staying consistent and sharpening problem-solving skills every day!
 
 <p align="left">
@@ -30,6 +29,7 @@ I believe in consistent practice to grow as a developer and build strong logical
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </p>
+
 
 - ✨ Focusing on **problem-solving**.  
 - 🧩 Actively practicing on **Codeforces** & **CodeChef** to improve logic building.
