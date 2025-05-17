@@ -20,6 +20,8 @@ I believe in consistent practice to grow as a developer and build strong logical
 🆕 **Newbie on Codeforces — growing step by step!**  
 ✨ Staying consistent and sharpening problem-solving skills every day!
 
+
+
 <p align="left">
   <a href="https://codeforces.com/profile/Faria_jahan_janie" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
@@ -30,12 +32,21 @@ I believe in consistent practice to grow as a developer and build strong logical
   </a>
 </p>
 
-
 - ✨ Focusing on **problem-solving**.  
 - 🧩 Actively practicing on **Codeforces** & **CodeChef** to improve logic building.
 
-
 ---
+### 🏆  Achievement 
+🎉 Proud to share that I have successfully completed all the practice problems of **500 difficulty rating** on [CodeChef](https://www.codechef.com/users/fariajanie)!
+
+📜 Here's my official certificate of completion:
+
+![CodeChef Certificate](assets/codechef-500-rating-certificate.jpg)
+
+🔗 [Verify Certificate on CodeChef](https://www.codechef.com/certificates/verify)  
+
+
+🧠 This milestone strengthens my journey of becoming a better **problem solver** and consistently improving my **logical thinking skills**.
 
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/janiefaria) 
