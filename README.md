@@ -41,7 +41,7 @@ I believe in consistent practice to grow as a developer and build strong logical
 
 📜 Here's my official certificate of completion:
 
-![CodeChef Certificate](https://drive.google.com/file/d/1pFiWMKzoyeuy_Z9azYnw-hSlmEnzTcnp/view?usp=sharing)
+[CodeChef Certificate](https://drive.google.com/file/d/1pFiWMKzoyeuy_Z9azYnw-hSlmEnzTcnp/view?usp=sharing)
 
 
 🔗 [Verify Certificate on CodeChef](https://www.codechef.com/certificates/verify) 
