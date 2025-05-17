@@ -41,9 +41,11 @@ I believe in consistent practice to grow as a developer and build strong logical
 
 📜 Here's my official certificate of completion:
 
-![CodeChef Certificate](assets/codechef-500-rating-certificate.jpg)
+![CodeChef Certificate](https://drive.google.com/file/d/1pFiWMKzoyeuy_Z9azYnw-hSlmEnzTcnp/view?usp=sharing)
 
-🔗 [Verify Certificate on CodeChef](https://www.codechef.com/certificates/verify)  
+
+🔗 [Verify Certificate on CodeChef](https://www.codechef.com/certificates/verify) 
+
 🆔 **Certificate ID**: c7dce80  
 👤 **Username**: fariajanie
 
