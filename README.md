@@ -43,15 +43,6 @@ I believe in consistent practice to grow as a developer and build strong logical
 
 [CodeChef Certificate](https://drive.google.com/file/d/1pFiWMKzoyeuy_Z9azYnw-hSlmEnzTcnp/view?usp=sharing)
 
-
-🔗 [Verify Certificate on CodeChef](https://www.codechef.com/certificates/verify) 
-
-🆔 **Certificate ID**: c7dce80  
-👤 **Username**: fariajanie
-
-
-🧠 This milestone strengthens my journey of becoming a better **problem solver** and consistently improving my **logical thinking skills**.
-
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/janiefaria) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faria_janie) 
