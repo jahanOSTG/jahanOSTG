@@ -44,6 +44,8 @@ I believe in consistent practice to grow as a developer and build strong logical
 ![CodeChef Certificate](assets/codechef-500-rating-certificate.jpg)
 
 🔗 [Verify Certificate on CodeChef](https://www.codechef.com/certificates/verify)  
+🆔 **Certificate ID**: c7dce80  
+👤 **Username**: fariajanie
 
 
 🧠 This milestone strengthens my journey of becoming a better **problem solver** and consistently improving my **logical thinking skills**.
