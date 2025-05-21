@@ -15,7 +15,7 @@
 ## 🧠 Problem Solving Focus  
 I believe in consistent practice to grow as a developer and build strong logical thinking.
 
-🏅 **Solved 350+ problems on CodeChef**  
+🏅 **Solved 380+ problems on CodeChef**  
 🥉 **Earned the Problem Solver Silver Badge on CodeChef**  
 🆕 **Newbie on Codeforces — growing step by step!**  
 ✨ Staying consistent and sharpening problem-solving skills every day!
