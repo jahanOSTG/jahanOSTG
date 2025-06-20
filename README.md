@@ -32,6 +32,11 @@ I believe in consistent practice to grow as a developer and build strong logical
   <a href="https://www.codechef.com/users/fariajanie" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
+
+ <a href="https://codemama.com/users/fariajanie" target="_blank">
+  <img src="https://img.shields.io/badge/Codemama-4B0082?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codemama"/>
+</a>
+
 </p>
 
 - ✨ Focusing on **problem-solving**.  
