@@ -43,12 +43,7 @@ I believe in consistent practice to grow as a developer and build strong logical
 - 🧩 Actively practicing on **Codeforces** & **CodeChef** to improve logic building.
 
 ---
-### 🏆  Achievement 
-🎉 Proud to share that I have successfully completed all the practice problems of **500 difficulty rating** on [CodeChef](https://www.codechef.com/users/fariajanie)!
 
-📜 Here's my official certificate of completion:
-
-[CodeChef Certificate](https://drive.google.com/file/d/1pFiWMKzoyeuy_Z9azYnw-hSlmEnzTcnp/view?usp=sharing)
 
 ## 🌐 Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/janiefaria) 
