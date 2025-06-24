@@ -24,6 +24,11 @@ I believe in consistent practice to grow as a developer and build strong logical
 
 
 
+<a href="https://leetcode.com/u/Faria_Janie/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+
 
   
   <a href="https://www.codechef.com/users/fariajanie" target="_blank">
