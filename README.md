@@ -17,8 +17,6 @@
 I believe in consistent practice to grow as a developer and build strong logical thinking.
 
   
-🥉 **Earned the Problem Solver Silver Badge on CodeChef**  
-🆕 **Newbie on Codeforces — growing step by step!**  
 ✨ Staying consistent and sharpening problem-solving skills every day!
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"/>
 
