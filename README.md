@@ -79,6 +79,11 @@ I believe in consistent practice to grow as a developer and build strong logical
 
 
 ---
+[![Trophy](https://github-profile-trophy.vercel.app/?username=jahanOSTG&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jahanOSTG&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
