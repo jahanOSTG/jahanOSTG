@@ -79,7 +79,7 @@ I believe in consistent practice to grow as a developer and build strong logical
 
 
 ---
-[![Trophy](https://github-profile-trophy.vercel.app/?username=jahanOSTG&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
@@ -99,6 +99,9 @@ I believe in consistent practice to grow as a developer and build strong logical
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
+# My Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=jahanOSTG&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 🌟 Fun Fact:
 
