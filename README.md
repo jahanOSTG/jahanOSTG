@@ -2,11 +2,13 @@
 🎓 Currently pursuing a **B.Sc. in Computer Science & Engineering (CSE)** at  
 **Port City International University, Bangladesh**.
 
-💡 Passionate about **Software Development** & **Web Technologies**  
-🚀 Eager to **learn new technologies** and enhance my skillset  
+💡 Passionate about **Software Development** & **Web Technologies**   
 🎯 Focusing on building **real-world projects** and sharpening **core programming fundamentals**  
 🔍 Exploring **Backend Development** with **PHP** and **MySQL**  
 🎨 Hands-on with **Frontend** tools like **HTML**, **CSS**, **JavaScript**
+🧠 Enthusiastic **Problem Solver** with a love for tackling coding challenges on platforms like CodeMama, Codeforces and LeetCode**  
+📊 Exploring the world of **Data Science**, including **data processing**, **visualization**, and **machine learning fundamentals** 
+📌 Committed to continuous learning and staying updated with modern tech trends  
 
 
 
