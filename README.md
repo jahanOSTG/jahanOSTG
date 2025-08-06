@@ -41,6 +41,11 @@ I believe in consistent practice to grow as a developer and build strong logical
   <img src="https://img.shields.io/badge/Codemama-4B0082?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codemama"/>
 </a>
 
+<a href="https://coddy.tech/profile" target="_blank">
+  <img src="https://img.shields.io/badge/Coddy_Tech-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Coddy Tech"/>
+</a>
+
+
 </p>
 
 - ✨ Focusing on **problem-solving**.  
