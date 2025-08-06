@@ -42,8 +42,9 @@ I believe in consistent practice to grow as a developer and build strong logical
 </a>
 
 <a href="https://coddy.tech/profile" target="_blank">
-  <img src="https://img.shields.io/badge/Coddy_Tech-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Coddy Tech"/>
+  <img src="https://img.shields.io/badge/Coddy_Tech-2E8B57?style=for-the-badge&logo=codeforces&logoColor=white" alt="Coddy Tech"/>
 </a>
+
 
 
 </p>
