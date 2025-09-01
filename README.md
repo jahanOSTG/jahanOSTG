@@ -21,8 +21,7 @@ I believe in **growing through consistent practice** and sharpening my **logic-b
   </a>
 </p>
 
-- ✨ Currently focusing on **problem-solving skills** and **algorithmic thinking**  
-- 🏆 Earned **trophies and badges** in competitive programming  
+- ✨ Currently focusing on **problem-solving skills** and **algorithmic thinking**   
 - 💡 Open to learning **new approaches and improving daily**  
 
 ---
@@ -47,8 +46,8 @@ I believe in **growing through consistent practice** and sharpening my **logic-b
 
 # 💻 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -65,7 +64,10 @@ I believe in **growing through consistent practice** and sharpening my **logic-b
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
   <img src="https://img.shields.io/badge/CNN-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/ANN-6A0DAD?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0078D7?style=for-the-badge&logo=cisco&logoColor=white">
+  <img src="https://img.shields.io/badge/ML%20Algorithms-F9A825?style=for-the-badge&logo=algorithmia&logoColor=white">
 </p>
+
 
 ---
 
@@ -85,9 +87,7 @@ I believe in **growing through consistent practice** and sharpening my **logic-b
   <img src="https://github-contributor-stats.vercel.app/api?username=jahanOSTG&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repos"/>
 </p>
 
----
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=jahanOSTG&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
