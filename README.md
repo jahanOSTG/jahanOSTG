@@ -52,6 +52,9 @@ I believe in growing through consistent practice and sharpening my logic-buildin
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white) 
 ![Python Turtle](https://img.shields.io/badge/Python_Turtle-%2336A85D.svg?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
+
 
 ---
 
