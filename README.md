@@ -1,17 +1,15 @@
-
 # 💫 About Me:
 Currently pursuing a **B.Sc. in Computer Science & Engineering (CSE)** at **Port City International University, Bangladesh**.<br><br>
-💡 Passionate about **Software Development** & **Web Technologies**.<br>
+💡 Passionate about **Software Development**, **Data Science**, **Machine Learning**, and **Web Technologies**.<br>
 🚀 Always eager to **learn new technologies** and enhance my skills.<br>
 🎯 Focusing on building **real-world projects** and sharpening my **core programming fundamentals**.<br>
-🔍 Exploring **Backend Development** with **PHP** and **MySQL**.<br>
-🎨 Working with Frontend Technologies like **HTML**, **CSS**, **JavaScript**.<br>
+🔍 Exploring **Backend Development** with **PHP**, **Flask**, and **MySQL**.<br>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 ---
 
-## 🧠 Problem Solving Focus:
+## 🧠 Problem Solving & Competitive Programming:
 I believe in growing through consistent practice and sharpening my logic-building abilities.
 
 <p align="left">
@@ -24,8 +22,9 @@ I believe in growing through consistent practice and sharpening my logic-buildin
   </a>
 </p>
 
-- ✨ Currently focusing on **problem-solving skills** and **algorithmic thinking**.
-- 💡 Always open to learning new approaches and improving day by day.
+- ✨ Currently focusing on **problem-solving skills** and **algorithmic thinking**.  
+- 🏆 Earned **trophies and badges** in competitive programming.  
+- 💡 Always open to learning new approaches and improving day by day.  
 
 ---
 
@@ -38,23 +37,23 @@ I believe in growing through consistent practice and sharpening my logic-buildin
 ---
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![Python Turtle](https://img.shields.io/badge/Python_Turtle-%2336A85D.svg?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Arduino](https://img.shields.io/badge/arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
-
 
 ---
 
@@ -67,11 +66,10 @@ I believe in growing through consistent practice and sharpening my logic-buildin
 ![](https://github-contributor-stats.vercel.app/api?username=jahanOSTG&limit=5&theme=outrun&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jahanOSTG&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=jahanOSTG&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
 ### 🌟 Fun Fact:
-💙 I love *learning about new programming trends* and exploring *creative web development ideas*..............add my codeforces link too...all organise please creatively professionally
+💙 I love *learning about new programming trends*, exploring *creative web development ideas*, and advancing in **Data Science & Machine Learning**.
