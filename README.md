@@ -16,10 +16,17 @@ I believe in **growing through consistent practice** and sharpening my **logic-b
   <a href="https://codeforces.com/profile/Faria_jahan_janie" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
   </a>
-  <a href="https://www.codechef.com/users/your_username_here" target="_blank">
+  
+  <a href="https://www.codechef.com/users/Faria_jahan_janie" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
+  
+  <a href="https://codemama.io/profile/6854f49c44748dbc6fc75079" target="_blank">
+    <img src="https://img.shields.io/badge/CodeMama-0A192F?style=for-the-badge&logo=https://raw.githubusercontent.com/Faria-janie/repo/main/codemama.png&logoColor=white" alt="CodeMama">
+  </a>
 </p>
+
+
 
 - ✨ Currently focusing on **problem-solving skills** and **algorithmic thinking**   
 - 💡 Open to learning **new approaches and improving daily**  
