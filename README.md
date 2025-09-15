@@ -24,7 +24,12 @@ I believe in **growing through consistent practice** and sharpening my **logic-b
   <a href="https://codemama.io/profile/6854f49c44748dbc6fc75079" target="_blank">
     <img src="https://img.shields.io/badge/CodeMama-0A192F?style=for-the-badge&logo=https://raw.githubusercontent.com/Faria-janie/repo/main/codemama.png&logoColor=white" alt="CodeMama">
   </a>
+  
+  <a href="https://coddy.tech/profile" target="_blank">
+    <img src="https://img.shields.io/badge/Coddy.tech-FF6F61?style=for-the-badge&logo=https://coddy.tech/favicon.ico&logoColor=white" alt="Coddy.tech">
+  </a>
 </p>
+
 
 
 
