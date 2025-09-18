@@ -80,6 +80,9 @@ I believe in **growing through consistent practice** and sharpening my **logic-b
   <img src="https://img.shields.io/badge/ANN-6A0DAD?style=for-the-badge&logo=keras&logoColor=white">
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0078D7?style=for-the-badge&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/ML%20Algorithms-F9A825?style=for-the-badge&logo=algorithmia&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-005C9E?style=for-the-badge&logo=opencv&logoColor=white">
+
+
 </p>
 
 
