@@ -17,7 +17,7 @@ I believe in **growing through consistent practice** and sharpening my **logic-b
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
   </a>
   
-  <a href="https://www.codechef.com/users/Faria_jahan_janie" target="_blank">
+  <a href="https://www.codechef.com/users/fariajanie" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
   </a>
   
