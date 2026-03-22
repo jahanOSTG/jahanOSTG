@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi! I’m **Faria Jahan**, a final-year **B.Sc. in Computer Science & Engineering (CSE)** student at **Port City International University, Bangladesh**.  
+I’m **Faria Jahan**, a final-year **B.Sc. in Computer Science & Engineering (CSE)** student at **Port City International University, Bangladesh**.  
 
 💡 Passionate about **Data Science**, **Machine Learning**, and **Web Technologies**.  
 🚀 Constantly exploring **new technologies** and building **real-world projects**.  
